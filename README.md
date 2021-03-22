@@ -16,3 +16,12 @@
 + Challenge from Brad Traversy & Florin Pop on Udemy '50 Projects in 50 Days'
 
 #### Takeaways from the instructor
+
+1. HTML
+- images inserted inside HTML => src needs to be in JS.
+- h3, p + span*3(<span>&nbsp;</span>)
+- strong and small tags for the author section
+- ## &nbsp; ## [W3S HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+
+2. CSS
+- header image: object-fit: cover, height & width: 100%
